@@ -49,7 +49,7 @@
 ## Output:
 
 ### Name:SRISHANTH J
-### Register Number:23006248
+### Register Number:212223240160
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
