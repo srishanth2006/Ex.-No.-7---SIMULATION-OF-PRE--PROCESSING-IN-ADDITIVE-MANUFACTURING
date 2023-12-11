@@ -40,6 +40,7 @@
 
 ## OUTPUT:
 <img width="345" alt="Screenshot 2023-12-11 151859" src="https://github.com/srishanth2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/366da156-d6d9-4381-8d58-fc9dcd7801bb">
+
 <img width="355" alt="Screenshot 2023-12-11 152036" src="https://github.com/srishanth2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/95ba310a-026a-4c8b-ac58-42f337800746">
 <img width="356" alt="Screenshot 2023-12-11 152055" src="https://github.com/srishanth2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/8304a41f-9f0f-43e1-9759-19d384a8105c">
 
